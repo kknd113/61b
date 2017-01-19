@@ -1,0 +1,24 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /~cs61b/fa13/labs/code/proj3</title>
+ </head>
+ <body>
+<h1>Index of /~cs61b/fa13/labs/code/proj3</h1>
+  <table>
+   <tr><th valign="top"><img src="https://inst.eecs.berkeley.edu/icons/blank.gif" alt="[ICO]"></th><th><a href="index.html?C=N%3BO=A">Name</a></th><th><a href="index.html?C=M%3BO=D">Last modified</a></th><th><a href="index.html?C=S%3BO=A">Size</a></th><th><a href="index.html?C=D%3BO=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="https://inst.eecs.berkeley.edu/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="../index.html">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="https://inst.eecs.berkeley.edu/icons/unknown.gif" alt="[   ]"></td><td><a href="Makefile">Makefile</a></td><td align="right">2013-11-17 13:46  </td><td align="right">2.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="https://inst.eecs.berkeley.edu/icons/unknown.gif" alt="[   ]"></td><td><a href="test-app">test-app</a></td><td align="right">2013-11-17 17:06  </td><td align="right">2.4K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="https://inst.eecs.berkeley.edu/icons/hand.right.gif" alt="[   ]"></td><td><a href="README">README</a></td><td align="right">2013-11-22 13:10  </td><td align="right">7.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="https://inst.eecs.berkeley.edu/icons/folder.gif" alt="[DIR]"></td><td><a href="trip/index.html">trip/</a></td><td align="right">2013-11-26 10:23  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="https://inst.eecs.berkeley.edu/icons/folder.gif" alt="[DIR]"></td><td><a href="make-tests/index.html">make-tests/</a></td><td align="right">2013-12-06 03:52  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="https://inst.eecs.berkeley.edu/icons/folder.gif" alt="[DIR]"></td><td><a href="trip-tests/index.html">trip-tests/</a></td><td align="right">2013-12-06 03:52  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="https://inst.eecs.berkeley.edu/icons/folder.gif" alt="[DIR]"></td><td><a href="graph/index.html">graph/</a></td><td align="right">2013-12-06 18:25  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="https://inst.eecs.berkeley.edu/icons/folder.gif" alt="[DIR]"></td><td><a href="make/index.html">make/</a></td><td align="right">2013-12-09 17:08  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="https://inst.eecs.berkeley.edu/icons/unknown.gif" alt="[   ]"></td><td><a href="staff-version">staff-version</a></td><td align="right">2013-12-09 17:08  </td><td align="right">  8 </td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.4.7 (Ubuntu) Server at inst.eecs.berkeley.edu Port 443</address>
+</body></html>
